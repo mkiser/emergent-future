@@ -1,4 +1,4 @@
-# Emergent // Future
+# Emergent // Future Newsletter Archive
 ![Emergent // Future Newsletter Archive](http://blog.algorithmia.com/wp-content/uploads/2016/08/emergent-future-uber-intel.png)
 
 A weekly, hand-curated dispatch exploring technology through the lens of artificial intelligence, data science, and the shape of things to come.
