@@ -37,4 +37,4 @@ A weekly, hand-curated dispatch exploring technology through the lens of artific
 32. [AI Chips, Cloud GPUs, OpenAI, and Cloud Machine Learning](http://blog.algorithmia.com/emergent-future-weekly-augmented-reality-face-stealing-snapchat-specs-ai/) (11.22.16)
 33. [Open Sourced AI, AWS AI Tools, FPGA's, and more](http://blog.algorithmia.com/emergent-future-ai-chips-cloud-gpus-openai-cloud-machine-learning/) (12.6.16)
 34. [AMD Takes On NVIDIA, Recapping NIPS, and More](http://blog.algorithmia.com/emergent-future-open-sourced-ai-aws-ai-tools-fpgas-and-more/) (12.13.16)
-35. [Autonomous Taxis, Building AI Assistants, Drones, Bots, and IoT]() (12.20.16)
+35. [Autonomous Taxis, Building AI Assistants, Drones, Bots, and IoT](http://blog.algorithmia.com/emergent-future-autonomous-taxis-building-ai-assistants-drones-bots-iot/) (12.20.16)
