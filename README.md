@@ -3,7 +3,7 @@
 
 A weekly, hand-curated dispatch exploring technology through the lens of artificial intelligence, data science, and the shape of things to come.
 
-1. first commit. [Google vs Go, The Future of Computing, How to Think About Bots, an AI learns to play Minecraft, and Is this the Year Computers Learn to See?](http://blog.algorithmia.com/emergent-future-and-the-shape-of-things-to-come/) (3.15.16)
+1. `first commit` [Google vs Go, The Future of Computing, How to Think About Bots, an AI learns to play Minecraft, and Is this the Year Computers Learn to See?](http://blog.algorithmia.com/emergent-future-and-the-shape-of-things-to-come/) (3.15.16)
 2. [AlphaGo's Victory, The Bots Are Coming, Your Brain vs Deep Learning, and Debunking Myths of A.I.](http://blog.algorithmia.com/the-historic-alphago-victory-emergent-future/) (3.22.16)
 3. [Terminating Tay](http://blog.algorithmia.com/terminating-tay-the-microsoft-ai/), [The State of Artificial Intelligence](http://blog.algorithmia.com/artificial-intelligence-deep-learning-arms-race-control-techs-future/), Deep Learning, and the Right to Delete (3.29.16) 
 4. [A Virtual Reality Check](http://blog.algorithmia.com/virtual-reality-check/), [Algorithms in IRL](http://blog.algorithmia.com/infographic-what-are-algorithms/), [Machine Learning and the Cloud](http://blog.algorithmia.com/machine-learning-cloud-goes-mainstream/), and [the Internet of Things in Two Inforgraphics](http://blog.algorithmia.com/2016-internet-of-things-landscape/) (4.5.16)
