@@ -8,6 +8,8 @@ A weekly, hand-curated dispatch exploring technology through the lens of artific
 ---
 
 ### 2017
+####1.37.0 [Train Your Own Self-Driving Car, and the AI 100 List](http://blog.algorithmia.com/emergent-future-train-self-driving-car-ai-100-list/) (1.17.17)
+
 ####1.36.0 [Looking Back, Looking Forward, and the Shape of Things to Come](http://blog.algorithmia.com/emergent-future-looking-back-looking-forward-shape-things-come/) (1.10.17)
 
 ---
