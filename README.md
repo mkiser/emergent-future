@@ -8,6 +8,8 @@ A weekly, hand-curated dispatch exploring technology through the lens of artific
 ---
 
 ### 2017
+####1.38 [Autopilot Saves Lives, Algorithms IRL, and Neural Nets in Python](http://blog.algorithmia.com/emergent-future-autopilot-saves-lives-algorithms-irl-neural-nets-python/) (1.24.17)
+
 ####1.37 [Train Your Own Self-Driving Car, and the AI 100 List](http://blog.algorithmia.com/emergent-future-train-self-driving-car-ai-100-list/) (1.17.17)
 
 ####1.36 [Looking Back, Looking Forward, and the Shape of Things to Come](http://blog.algorithmia.com/emergent-future-looking-back-looking-forward-shape-things-come/) (1.10.17)
